@@ -15,13 +15,14 @@ It will help you start with `Terraform Cloud` using `GitHub` and `AWS`.<br>
 Thanks for forking this gist if you find it useful.
 
 ### How this gist is structured
-This gist is structured into 3 parts.<br>
+This gist is structured into 5 parts.<br>
 You are invited to take each part one after the other.<br>
 
 <b>Part 1. Get started with Terraform Cloud UI</b><br>
 <b>Part 2. Plan an apply a configuration</b><br>
 <b>Part 3. Update variables</b><br>
 <b>Part 4. Destroy infrastructure</b>
+<b>Part 5. Cost estimation and mitigation</b>
 
 ### How this gist is structured
 `Terraform` is a freemium `Infrastructure as Code` tool which can help you deploy `IT` infrastructures from configuration files rather than interracting with your tools UIs.<br><br>
