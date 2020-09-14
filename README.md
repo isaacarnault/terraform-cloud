@@ -1,6 +1,6 @@
 [![isaac-arnault-terraform.jpg](https://i.postimg.cc/k5tJ3FRB/isaac-arnault-terraform.jpg)](https://postimg.cc/4Kskpc5g)
 
-    • Programming : HCL
+    • Programming: HCL
     • Repository: GitHub
     • Cloud: Terraform Cloud (app.terraform.io), AWS
     • Database: DynamoDB
