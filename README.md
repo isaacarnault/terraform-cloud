@@ -1,10 +1,11 @@
 [![isaac-arnault-terraform.jpg](https://i.postimg.cc/k5tJ3FRB/isaac-arnault-terraform.jpg)](https://postimg.cc/4Kskpc5g)
 
     • Programming : HCL
-    • Cloud: Terraform Cloud (app.terraform.io)
+    • Repository: GitHub
+    • Cloud: Terraform Cloud (app.terraform.io), AWS
     • Database: DynamoDB
   
-### Gist writing, testing and debugging : 9 hrs - Author :  Isaac Arnault - License : MIT©, 2020
+### Gist writing, testing and debugging : 9 hrs
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
