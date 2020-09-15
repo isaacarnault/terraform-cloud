@@ -84,8 +84,6 @@ Our newly created file should look like this:
 
 [![isaac-arnault-terraform-54.png](https://i.postimg.cc/4N3C2BQv/isaac-arnault-terraform-54.png)](https://postimg.cc/jCBkL69C)
 
-<hr>
-
 We have one `Sentinel policy` and one `Policy Set` configured as well as a new file created on our `GitHub` repository.<br>
 
 We are now ready to run a new 'Queue plan'.
