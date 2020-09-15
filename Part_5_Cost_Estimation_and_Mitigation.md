@@ -1,4 +1,4 @@
-Estimating and mitigating costs of your deployed resources via `Terraform Cloud` can useful in your job.<br>
+Estimating and mitigating costs of our `AWS` deployed resources using `Terraform Cloud` can be useful in our daily job.<br>
 
 #### Prerequisites
 In order to get cost estimation of your deployed resources upon `Queue plan`, make sure you move from a free plan to a paid plan.<br>
