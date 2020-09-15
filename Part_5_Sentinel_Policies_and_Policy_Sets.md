@@ -84,9 +84,10 @@ Our newly created file should look like this:
 
 <hr>
 
-<hr>
-At this part of the turorial, we have one Sentinel policy and one Policy Set configured as well as a new file created on our GitHub repository.<br>
-We are now ready to run a new 'Queue plan'
+We have one Sentinel policy and one Policy Set configured as well as a new file created on our GitHub repository.<br>
+
+We are now ready to run a new 'Queue plan'.
+
 <hr>
 
 #### Step 3 - Queue plan to apply your policies
