@@ -1,4 +1,4 @@
-#### Change Infrastructure via Version Control
+#### Step 1 - Change Infrastructure via Version Control
 
 There are two (2) ways to update our workspace deployments on `Terraform Cloud`:<br>
 
@@ -15,7 +15,9 @@ updating variables in the `Terraform Cloud UI`
 . <b>Settings</b> - contain all of the other configuration for your workspace.<br>
 . <b>Queue plan</b> - lets you start a new plan.
 <hr>
-#### Changing variables
+
+#### Step 2 - Changing variables
+
 In your `Terraform Cloud UI`, go to 'Variables'.<br>
 You can try changing your 'db_read_capacity' value from 2 to 1.
 
