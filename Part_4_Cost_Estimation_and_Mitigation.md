@@ -1,7 +1,7 @@
 Estimating and mitigating costs of our `AWS` deployed resources using `Terraform Cloud` can be useful in our daily job.<br>
 
 #### Prerequisites
-In order to get cost estimation of our deployed resources upon `Queue plan`, we make sure we move from a free plan to a paid plan.<br>
+In order to get the cost estimation of our deployed resources upon `Queue plan`, we make sure we move from a free plan to a paid plan.<br>
 
 On the top bar click on Settings > Plan & Billing.<br>
 
@@ -14,7 +14,7 @@ Choose the Team & Governance free trial plan to try new `Terraform Cloud` tools 
 
 <hr>
 
-Now that we switched to a paid plan, we should see that new tabs appeared in our left sidebar such as `Cost Estimation`, `Policy Sets`. <br>
+Now that we've switched to a paid plan, we should see that new tabs appeared in our left sidebar such as `Cost Estimation`, `Policy Sets`. <br>
 
 Click on `Cost Estimation` and make sure that <b>Enable Cost Estimation for all workspaces</b> is checked.
 
@@ -31,7 +31,7 @@ Now we are ready to go.
 
 ### Infrastructure cost mitigation using Terraform Cloud UI
 
-Let's go back to our Terraform Cloud UI on ou <b>tfc-guide-example</b> workspace to add new parameters.<b>
+Let's go back to our Terraform Cloud UI on our <b>tfc-guide-example</b> workspace to add new parameters.<b>
   
 Go to `Terraform variables`.<br>  
 
@@ -89,7 +89,7 @@ Here is our table!
 
 <hr>
 
-To mitigate our costs, we shouldn't forget to delete the `DynamoDB` table created upon Part 5 completion, directly throughout our `AWS` console.
+To mitigate our costs, we shouldn't forget to delete the `DynamoDB` table created, directly throughout our `AWS` console.
 
 <details>
 <summary>🔵 See output</summary>
