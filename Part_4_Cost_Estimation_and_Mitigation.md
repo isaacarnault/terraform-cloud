@@ -33,7 +33,7 @@ Now we are ready to go.
 
 Let's go back to our Terraform Cloud UI on ou <b>tfc-guide-example</b> workspace to add new parameters.<b>
   
-Go to `Terraform variables`.<br>
+Go to `Terraform variables`.<br> 
 
 Add 1 new variable: `aws_region` and set <b>us-west-1</b> as value.<br>
 
