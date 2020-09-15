@@ -14,7 +14,7 @@ updating variables in the `Terraform Cloud UI`
 . <b>Variables</b> - let you configure Terraform variables and environment variables.<br>
 . <b>Settings</b> - contain all of the other configuration for your workspace.<br>
 . <b>Queue plan</b> - lets you start a new plan.
-
+<hr>
 #### Changing variables
 In your `Terraform Cloud UI`, go to 'Variables'.<br>
 You can try changing your 'db_read_capacity' value from 2 to 1.
