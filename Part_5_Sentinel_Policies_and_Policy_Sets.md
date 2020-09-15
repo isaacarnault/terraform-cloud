@@ -1,7 +1,6 @@
-Taking this part is not compulsory.<br>
-But if we want to take advantage of your 'Try out the Team & Governance plan features for 30 days' plan, we can set a Sentinel policy and a new Policy set to our forked 'tfc-guide-example' repository.<br>
+Taking part 5 is not mandatory.<br>
 
-This is how we will do it.<br>
+But if we want to take advantage of your 'Try out the Team & Governance plan features for 30 days' plan, we can set a Sentinel policy and a new Policy set to our forked 'tfc-guide-example' repository.<br>
 
 #### Step 1 - Create a new Sentinel Policy and Policy Set
 
