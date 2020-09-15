@@ -3,21 +3,21 @@
 There are two (2) ways to update our workspace deployments on `Terraform Cloud`:<br>
 
 changing the configuration in `VCS`<br>
-<b>Or</b>
+<b>Or</b><br>
 updating variables in the `Terraform Cloud UI`
 
 <hr>
 <b>Important - </b> tools of our Workspace<br>
 
-  | <b>Runs</b> - shows a list of all of the plan and apply actions you have taken with this workspace<br>
-. <b>States</b> - shows a list of the entire tfstate file of your workspace after each successful run<br>
-. <b>Variables</b> - let you configure Terraform variables and environment variables<br>
-. <b>Settings</b> - contain all of the other configuration for your workspace<br>
-. <b>Queue plan</b> - lets you start a new plan
+ . <b>Runs</b> - shows a list of all of the plan and apply actions you have taken with this workspace.<br>
+. <b>States</b> - shows a list of the entire tfstate file of your workspace after each successful run.<br>
+. <b>Variables</b> - let you configure Terraform variables and environment variables.<br>
+. <b>Settings</b> - contain all of the other configuration for your workspace.<br>
+. <b>Queue plan</b> - lets you start a new plan.
 
 #### Changing variables
-In your `Terraform Cloud UI`, go to 'Variables'<br>
-You can try changing your 'db_read_capacity' value from 2 to 1
+In your `Terraform Cloud UI`, go to 'Variables'.<br>
+You can try changing your 'db_read_capacity' value from 2 to 1.
 
 <details>
 <summary>🔵 See output</summary>
@@ -28,7 +28,7 @@ You can try changing your 'db_read_capacity' value from 2 to 1
 </p>
 </details>
 
-Click on 'Queue plan' and set as reason: 'db_read_capacity update'
+Click on 'Queue plan' and set as reason: 'db_read_capacity update'.
 
 <details>
 <summary>🔴 See hint</summary>
