@@ -92,5 +92,4 @@ Mitigating the cost of the Infrastructure, especially if you are a `Data Archite
 Please bear in mind that running costs may occure if you do not delete the resources provided by your `Terraform` actions.<br>
 
 <hr>
-
 Thus, feel free to go to your `AWS` console and delete the User, Group, DynamoDB table created upon this gist completion.
