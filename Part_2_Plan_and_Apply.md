@@ -6,11 +6,11 @@ In this section, we will provision a `DynamoDB` instance through `Terraform Clou
 
 We will retrieve your `AWS` credentials and set your `Terraform Cloud` variables to use those values.
 
-Log into your `AWS` account, if no account create one: https://portal.aws.amazon.com/billing/signup#/start<br>
-You can access your console after Signing Up to AWS using this link: https://console.aws.amazon.com/console/home<br>
+Log into your `AWS` account, if no account create one: https://portal.aws.amazon.com/billing/signup#/start.<br>
+You can access your console after Signing Up to AWS using this link: https://console.aws.amazon.com/console/home.<br>
 
-Once logged into your `AWS` console, go to `IAM`<br>
-If you are new to AWS, please bypass all user configuration (green ticked marks) for the sake of simplification<br>
+Once logged into your `AWS` console, go to `IAM`.<br>
+If you are new to AWS, please bypass all user configuration (green ticked marks) for the sake of simplification.<br>
 
 <details>
 <summary>🔵 See output</summary>
@@ -23,11 +23,11 @@ If you are new to AWS, please bypass all user configuration (green ticked marks)
 
 . Click on Users > Add user<br>
 
-. Next: permissions > Create group: call it <b>admins_terraform</b><br>
+. Next: permissions > Create group: call it <b>admins_terraform</b>.<br>
 
-. Filter policies: search for `AdministratorAccess` in the search bar<br>
+. Filter policies: search for `AdministratorAccess` in the search bar.<br>
 
-. Select the `AdministratorAccess` policy and click on 'Create group'
+. Select the `AdministratorAccess` policy and click on 'Create group'.
 
 <details>
 <summary>🔵 See output</summary>
@@ -57,7 +57,7 @@ Follow `AWS` security best practices by deleting this user and the group created
 #### Step 2 - Configure workspace variables
 Go back to your `Terraform Cloud` window and click on 'Configure variables'<br>
 
-. Scroll down to `Terraform` variables > Add variables: here you'll create three (3) variables, one related to a user, and two related to the `DynamoDB` database: 'tag_user_name', 'db_write_capacity', 'db_read_capacity'<br>
+. Scroll down to `Terraform` variables > Add variables: here you'll create three (3) variables, one related to a user, and two related to the `DynamoDB` database: 'tag_user_name', 'db_write_capacity', 'db_read_capacity'.<br>
 
 . Do the same for Environment variables > Ass variables: create 2 variables 'AWS_ACCESS_KEY_ID' and 'AWS_SECRET_ACCESS_KEY'.
 
