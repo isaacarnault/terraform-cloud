@@ -61,4 +61,4 @@ Then 'Confirm & update' and wait for the update confirmation:
 [![isaac-arnault-terraform-40.png](https://i.postimg.cc/t48cVThw/isaac-arnault-terraform-40.png)](https://postimg.cc/Wd68BsYw)
 
 </p>
-</details>
+</details> 
