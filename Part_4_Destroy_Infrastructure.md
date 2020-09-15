@@ -69,7 +69,7 @@ Confirm Workspace deletion when prompted and wait for the destruction.<br>
 </p>
 </details>
 
-In your Company's workspace, you'll see that your 'tf-guide-example' workspace was deleted.<br>
+In your Organization's workspace, you'll see that your `tf-guide-example` workspace was deleted.<br>
 
 <details>
 <summary>🔵 See output</summary>
@@ -90,5 +90,7 @@ This means that your `AWS DynamoDB` table you provisioned isn't destroyed after 
 Mitigating the cost of the Infrastructure, especially if you are a `Data Architect` / `Solution Architect` is quite important. <br>
 
 Please bear in mind that running costs may occure if you do not delete the resources provided by your `Terraform` actions.<br>
+
+<hr>
 
 Thus, feel free to go to your `AWS` console and delete the User, Group, DynamoDB table created upon this gist completion.
