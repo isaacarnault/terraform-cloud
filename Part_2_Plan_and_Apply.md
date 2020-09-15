@@ -108,4 +108,4 @@ You can go to your `AWS` console and check that the `DynamoDB` table was provisi
 </details>
 
 <hr>
-At the end of this part you configured your workspace and provisioned a `DynamoDB` instance using `Terraform Cloud`.
+At the end of this part you configured your workspace and provisioned a `DynamoDB` instance using `Terraform Cloud`. 
