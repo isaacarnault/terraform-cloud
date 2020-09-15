@@ -1,4 +1,4 @@
-Taking part 5 is not mandatory.<br>
+Doing part 5 is not mandatory.<br>
 
 But if we want to take advantage of your `Team & Governance plan` trial plan, we can set a Sentinel policy and a new Policy set.
 
@@ -70,7 +70,7 @@ Click on <b>Add file</b>, then <b>Create new file</b>
 </p>
 </details>
 
-Call the file <b>allowed-terraform-version.sentinel</b> and pass the following code onto it then click on <b>Commit</b><br>
+Call the file <b>allowed-terraform-version.sentinel</b> and pass the following code onto it, then click on <b>Commit</b><br>
 
 ```r
 main = rule {
@@ -89,9 +89,9 @@ Our newly created file should look like this:
 </p>
 </details>
 
-We have one `Sentinel policy` and one `Policy Set` configured as well as a new file created on our `GitHub` repository.<br>
+We have one `Sentinel policy` and one `Policy Set` configured as well as a new file created in our `GitHub` repository.<br>
 
-We are now ready to run a new 'Queue plan'.
+We are now ready to run a 'Queue plan'.
 
 <hr>
 
@@ -106,16 +106,3 @@ If we have properly configured our `Sentinel policy` and `Policy Set` as well as
 <hr>
 
 [![isaac-arnault-terraform-55.png](https://i.postimg.cc/qqMFYvyB/isaac-arnault-terraform-55.png)](https://postimg.cc/47qwHZWj)
-
-<hr>
-
-This gist is now completed. We have successfully completed parts 1 to 6.
-
-<hr>
-
-[![isaac-arnault-terraform-56.png](https://i.postimg.cc/ncr5GMn0/isaac-arnault-terraform-56.png)](https://postimg.cc/mtx8bLzH)
-
-<hr>
-
-We have learnt how to implement an Infrastructure as Code using `Terraform Cloud` and `GitHub` which helped us provision a `DynamoDB` table on `AWS`.<br>
-If you enjoyed this gist, thanks for forking it and do not hesitate to ask questions. 
