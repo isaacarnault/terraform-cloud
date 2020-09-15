@@ -28,11 +28,11 @@ Now we are ready to go!
 
 Let's go back to our Terraform Cloud UI on ou <b>tfc-guide-example</b> workspace to add new parameters.<b>
   
-Go to <b>Terraform variables</b>.<br>
+Go to `Terraform variables`.<br>
 
-Add 1 new variable: <b>aws_region</b> and set <b>us-west-1</b> as value.<br>
+Add 1 new variable: `aws_region` and set <b>us-west-1</b> as value.<br>
 
-Update your <b>db_read_capacity</b> to <b>2</b>.
+Update your `db_read_capacity` to <b>2</b>.
 
 <details>
 <summary>🔴 See hint</summary>
@@ -48,14 +48,14 @@ Applying our new plan will unlock a new `Cost estimation` feature in our UI.
 
 [![isaac-arnault-terraform-54.png](https://i.postimg.cc/YqBNZMjH/isaac-arnault-terraform-54.png)](https://postimg.cc/0rZJJgpW)
 
-By clicking on the `Cost estimation` tab, we can see the <b>Hourly</b>, <b>Monthly</b> and <b>Monthly Delta</b> costs of our `DynamoDB` table deployed on `AWS` using `Terraform Cloud UI`.<br>
+By clicking on the `Cost estimation` tab we can see the Hourly, Monthly and Monthly Delta costs of our `DynamoDB` table deployed on `AWS`.<br>
 
 [![isaac-arnault-aws-55.png](https://i.postimg.cc/dtRRKpTT/isaac-arnault-aws-55.png)](https://postimg.cc/Vd60q7gY)
 
-Finally, let's confirm that our `DynamoDB` was deployed on `AWS` by:<br>
-logging to our console<br>
-switching to us-west-1 region<br>
-opening DynamoDB service
+Finally, let's confirm that our `DynamoDB` was deployed on `AWS`:<br>
+- Log into our `AWS` console.<br>
+- Switch to `us-west-1` region.<br>
+- Open `DynamoDB` service.
 
 Here is our table!
 
