@@ -118,4 +118,4 @@ This gist is now completed. We have successfully completed parts 1 to 6.
 <hr>
 
 We have learnt how to implement an Infrastructure as Code using `Terraform Cloud` and `GitHub` which helped us provision a `DynamoDB` table on `AWS`.<br>
-If you enjoyed this gist, thanks for forking it and do not hesitate to ask questions.
+If you enjoyed this gist, thanks for forking it and do not hesitate to ask questions. 
