@@ -20,8 +20,8 @@ This gist is structured into 6 parts.<br>
 <b>Part 1. Get started with Terraform Cloud UI</b><br>
 <b>Part 2. Plan an apply a configuration</b><br>
 <b>Part 3. Update variables</b><br>
-<b>Part 4. Destroy infrastructure</b><br>
-<b>Part 5. Cost estimation and mitigation</b><br>
+<b>Part 4. Cost estimation and mitigation</b><br>
+<b>Part 5. Sentinel Policies and Policy Sets.md
 <b>Part 6. Destroy Infrastructure</b></br>
 
 `Terraform` is a freemium `Infrastructure as Code` tool which can help you deploy `IT` infrastructures from configuration files rather than interracting with your tools UIs.<br><br>
