@@ -93,3 +93,15 @@ Please bear in mind that running costs may occure if you do not delete the resou
 
 <hr>
 Thus, feel free to go to your `AWS` console and delete the User, Group, DynamoDB table created upon this gist completion.
+
+<hr>
+This gist is now completed. We have successfully completed parts 1 to 6.
+
+<hr>
+
+[![isaac-arnault-terraform-56.png](https://i.postimg.cc/ncr5GMn0/isaac-arnault-terraform-56.png)](https://postimg.cc/mtx8bLzH)
+
+<hr>
+
+We have learnt how to implement an Infrastructure as Code using `Terraform Cloud` and `GitHub` which helped us provision a `DynamoDB` table on `AWS`.<br>
+If you enjoyed this gist, thanks for forking it and do not hesitate to ask questions. 
