@@ -22,9 +22,8 @@ You are invited to take each part one after the other.<br>
 <b>Part 2. Plan an apply a configuration</b><br>
 <b>Part 3. Update variables</b><br>
 <b>Part 4. Destroy infrastructure</b>
-<b>Part 5. Cost estimation and mitigation</b>
+<b>Part 5. Cost estimation and mitigation</b><br>
 
-### How this gist is structured
 `Terraform` is a freemium `Infrastructure as Code` tool which can help you deploy `IT` infrastructures from configuration files rather than interracting with your tools UIs.<br><br>
 
 `Terraform` is mainly dedicated to `CI/CD` projects and to `DevOps Engineers`, `Cloud Engineers`, `Data Architects`.<br><br>
