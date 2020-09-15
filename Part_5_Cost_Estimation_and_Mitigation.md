@@ -3,7 +3,9 @@ Estimating and mitigating costs of your deployed resources via `Terraform Cloud`
 #### Prerequisites
 In order to get cost estimation of your deployed resources upon `Queue plan`, make sure you move from a free plan to a paid plan.<br>
 
-On the top bar click on Settings > Plan & Billing and choose the Team & Governance free trial plan to try new `Terraform Cloud` tools for free (30 days free trial).<br>
+On the top bar click on Settings > Plan & Billing.<br>
+
+Choose the Team & Governance free trial plan to try new `Terraform Cloud` tools for free (30 days free trial).<br>
 
 [![isaac-arnault-terraform-51.png](https://i.postimg.cc/MphrnyXk/isaac-arnault-terraform-51.png)](https://postimg.cc/18rKTVpM)
 
