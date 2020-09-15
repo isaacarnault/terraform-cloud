@@ -5,7 +5,7 @@ This gist will help you get started with `Terraform Cloud`.
 You must have a github account. If not, create a Github account for free: https://github.com/join.<br>
 Fork this repository: https://github.com/hashicorp/tfc-guide-example<br>
 
-Once you've complete the prerequisites, you are ready to take this part.
+Once you've completed the prerequisites, you are ready to take this part.
 
 #### Get started
 Create an account [account](https://app.terraform.io/session)..<br>
@@ -19,7 +19,7 @@ Create an account [account](https://app.terraform.io/session)..<br>
 </p>
 </details>
 
-Log into your account and create new organization : mine is called <i>Company123</i> (name must be a unique name).<br>
+Log into your account and create new organization: mine is called <i>Company123</i> (name must be a unique name).<br>
 
 <details>
 <summary>🔵 See output</summary>
@@ -32,7 +32,7 @@ Log into your account and create new organization : mine is called <i>Company123
 
 Create a new Workspace > Version control workflow.<br>
 
-Connect to VCS : choose `Github` since you now have a Github account.
+Connect to VCS: choose `Github` since you now have a Github account.
 
 <details>
 <summary>🔵 See output</summary>
@@ -54,7 +54,7 @@ Authorize `Terraform CLoud`.
 </p>
 </details>
 
-. Install on a specific repository: choose the one repository you've forked (seach for 'tfc', then 'Create workspace')
+. Install on a specific repository: choose the repository you've forked (seach for 'tfc', then 'Create workspace')
 
 <details>
 <summary>🔵 See output</summary>
