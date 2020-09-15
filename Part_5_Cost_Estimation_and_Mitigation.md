@@ -52,7 +52,11 @@ Applying our new plan will unlock a new `Cost estimation` feature in our UI.
 
 <hr>
 
-By clicking on the `Cost estimation` tab we can see the Hourly, Monthly and Monthly Delta costs of our `DynamoDB` table deployed on `AWS`.<br>
+By clicking on the `Cost estimation` tab we can see:<br>
+
+- Hourly<br>
+- Monthly<br>
+- Monthly Delta costs of our `DynamoDB` table deployed on `AWS`.
 
 <hr>
 
