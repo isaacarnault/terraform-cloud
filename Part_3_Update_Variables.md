@@ -9,11 +9,11 @@ There are two (2) ways to update our workspace deployments on `Terraform Cloud`:
 <hr>
 <b>Important - </b> tools of our Workspace<br>
 
-  <b>Runs</b> - shows a list of all of the plan and apply actions you have taken with this workspace.<br>
-  <b>States</b> - shows a list of the entire tfstate file of your workspace after each successful run.<br>
-  <b>Variables</b> - let you configure Terraform variables and environment variables.<br>
-  <b>Settings</b> - contain all of the other configuration for your workspace.<br>
-  <b>Queue plan</b> - lets you start a new plan.
+<b>Runs</b> - shows a list of all of the plan and apply actions you have taken with this workspace.<br>
+<b>States</b> - shows a list of the entire tfstate file of your workspace after each successful run.<br>
+<b>Variables</b> - let you configure Terraform variables and environment variables.<br>
+<b>Settings</b> - contain all of the other configuration for your workspace.<br>
+<b>Queue plan</b> - lets you start a new plan.
 <hr>
 
 #### Step 2 - Changing variables
