@@ -1,16 +1,16 @@
-Once you've complete the Get_Started section of this gist, you are ready to take this part.<br>
+Once you've completed the Part 1 of this gist, you are ready to begin this part.<br>
 
 In this section, we will provision a `DynamoDB` instance through `Terraform Cloud`.
 
 #### Step 1 - Configure AWS (must have an AWS account)
 
-We will retrieve your `AWS` credentials and set your `Terraform Cloud` variables to use those values.
+We will retrieve our `AWS` credentials and set our `Terraform Cloud` variables to use those values.
 
-Log into your `AWS` account, if no account create one: https://portal.aws.amazon.com/billing/signup#/start.<br>
+Log into your `AWS` account. If you don't have an account, create one: https://portal.aws.amazon.com/billing/signup#/start.<br>
 You can access your console after Signing Up to AWS using this link: https://console.aws.amazon.com/console/home.<br>
 
 Once logged into your `AWS` console, go to `IAM`.<br>
-If you are new to AWS, please bypass all user configuration (green ticked marks) for the sake of simplification.<br>
+If you are new to AWS, please bypass all user configuration (green ticked marks below) for the sake of simplicity.<br>
 
 <details>
 <summary>🔵 See output</summary>
@@ -40,7 +40,7 @@ If you are new to AWS, please bypass all user configuration (green ticked marks)
 
 . Next: tags. Use as key: resources and as Value: terraform<br>
 
-. Next: review > create user > download the .csv files which contains security credentials for the user '
+. Next: review > create user > download the .csv file which contains security credentials for the user '
 terraform_user'<br>
 
 `Access key ID` and a `Secret access key` were provided to you by `AWS`.<br>
@@ -51,7 +51,7 @@ You can keep this window opened and open a new `AWS` console window from your br
 
 <hr>
 <b>Important</b>
-Follow `AWS` security best practices by deleting this user and the group created after completing this gist, since all security parameters for this user weren't fullfilled for the sake of simplicity.<br>
+Follow `AWS` security best practices by deleting this user and the group created after completing this gist, since all security parameters for this user weren't fulfilled for the sake of simplicity.<br>
 
 
 #### Step 2 - Configure workspace variables
@@ -108,4 +108,4 @@ You can go to your `AWS` console and check that the `DynamoDB` table was provisi
 </details>
 
 <hr>
-At the end of this part you configured your workspace and provisioned a `DynamoDB` instance using `Terraform Cloud`. 
+At the end of this part, you've configured your workspace and provisioned a `DynamoDB` instance using `Terraform Cloud`. 
