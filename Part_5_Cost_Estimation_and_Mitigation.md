@@ -45,13 +45,21 @@ Update your `db_read_capacity` to <b>2</b>.
 
 Then click on `Queue plan`.<br><br>
 Applying our new plan will unlock a new `Cost estimation` feature in our UI.
+
 <hr>
+
 [![isaac-arnault-terraform-54.png](https://i.postimg.cc/YqBNZMjH/isaac-arnault-terraform-54.png)](https://postimg.cc/0rZJJgpW)
+
 <hr>
+
 By clicking on the `Cost estimation` tab we can see the Hourly, Monthly and Monthly Delta costs of our `DynamoDB` table deployed on `AWS`.<br>
+
 <hr>
+
 [![isaac-arnault-aws-55.png](https://i.postimg.cc/dtRRKpTT/isaac-arnault-aws-55.png)](https://postimg.cc/Vd60q7gY)
+
 <hr>
+
 Finally, let's confirm that our `DynamoDB` was deployed on `AWS`:<br>
 - Log into our `AWS` console.<br>
 - Switch to `us-west-1` region.<br>
