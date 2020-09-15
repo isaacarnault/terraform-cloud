@@ -10,7 +10,7 @@ There are two (2) ways to update our workspace deployments on `Terraform Cloud`:
 <b>Important - </b> tools of our Workspace<br>
 
 <b>Runs</b> - shows a list of all of the plan and apply actions you have taken with this workspace.<br>
-<b>States</b> - shows a list of the entire tfstate file of your workspace after each successful run.<br>
+<b>States</b> - shows a list of the entire `tfstate` file of your workspace after each successful run.<br>
 <b>Variables</b> - let you configure Terraform variables and environment variables.<br>
 <b>Settings</b> - contain all of the other configuration for your workspace.<br>
 <b>Queue plan</b> - lets you start a new plan.
@@ -30,7 +30,7 @@ You can try changing your 'db_read_capacity' value from 2 to 1.
 </p>
 </details>
 
-Click on 'Queue plan' and set as reason: 'db_read_capacity update'.
+Click on 'Queue plan' and you can set as reason: 'db_read_capacity update' (not mendatory).
 
 <details>
 <summary>🔴 See hint</summary>
