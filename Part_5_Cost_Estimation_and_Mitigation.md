@@ -53,9 +53,9 @@ By clicking on the `Cost estimation` tab, we can see the <b>Hourly</b>, <b>Month
 [![isaac-arnault-aws-55.png](https://i.postimg.cc/dtRRKpTT/isaac-arnault-aws-55.png)](https://postimg.cc/Vd60q7gY)
 
 Finally, let's confirm that our `DynamoDB` was deployed on `AWS` by:<br>
-. logging to our console<br>
-. switching to us-west-1 region<br>
-. opening DynamoDB service
+logging to our console<br>
+switching to us-west-1 region<br>
+opening DynamoDB service
 
 Here is our table!
 
