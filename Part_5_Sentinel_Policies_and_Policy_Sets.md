@@ -1,6 +1,8 @@
 Taking part 5 is not mandatory.<br>
 
-But if we want to take advantage of your 'Try out the Team & Governance plan features for 30 days' plan, we can set a Sentinel policy and a new Policy set to our forked 'tfc-guide-example' repository.<br>
+But if we want to take advantage of your 'Try out the Team & Governance plan features for 30 days' plan, we can set a Sentinel policy and a new Policy set to our forked 'tfc-guide-example' repository.
+
+<hr>
 
 #### Step 1 - Create a new Sentinel Policy and Policy Set
 
@@ -47,7 +49,9 @@ Next: click on 'connect policy set'<br>
 </p>
 </details>
 
-#### Update GitHub repository
+<hr>
+
+#### Step 2 - Update GitHub repository
 
 Now that we have a new Sentinel policy and a Policy Set, we should add one file into our GitHub repository otherwise we'll get some error while queueing our plan.<br>
 
@@ -82,7 +86,7 @@ At this part of the turorial, we have one Sentinel policy and one Policy Set con
 We are now ready to run a new 'Queue plan'
 <hr>
 
-#### Step 2 - Queue plan to apply your policies
+#### Step 3 - Queue plan to apply your policies
 
 We go to our 'tfc-guide-example' workspace and click on 'Queue plan'.<br>
 
