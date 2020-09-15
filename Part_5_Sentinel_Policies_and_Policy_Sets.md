@@ -75,10 +75,13 @@ main = rule {
 	true
 }
 ```
+
 Our newly created file should look like this:
 
 <hr>
+
 [![isaac-arnault-terraform-54.png](https://i.postimg.cc/4N3C2BQv/isaac-arnault-terraform-54.png)](https://postimg.cc/jCBkL69C)
+
 <hr>
 
 <hr>
