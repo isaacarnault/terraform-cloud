@@ -2,9 +2,9 @@
 
 There are two (2) ways to update our workspace deployments on `Terraform Cloud`:<br>
 
-changing the configuration in `VCS`<br>
-<b>Or</b><br>
-updating variables in the `Terraform Cloud UI`
+- change the configuration in `VCS`.<br>
+<b>or</b><br>
+- update variables in the `Terraform Cloud UI.`
 
 <hr>
 <b>Important - </b> tools of our Workspace<br>
