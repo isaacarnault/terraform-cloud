@@ -21,9 +21,9 @@ If you are new to AWS, please bypass all user configuration (green ticked marks)
 </p>
 </details>
 
-. Click on Users > Add user
+. Click on Users > Add user<br>
 
-. Next: permissions > Create group: call it <b>admins_terraform</b>
+. Next: permissions > Create group: call it <b>admins_terraform</b><br>
 
 . Filter policies: search for `AdministratorAccess` in the search bar<br>
 
@@ -38,10 +38,10 @@ If you are new to AWS, please bypass all user configuration (green ticked marks)
 </p>
 </details>
 
-. Next: tags. Use as key: resources and as Value: terraform
+. Next: tags. Use as key: resources and as Value: terraform<br>
 
 . Next: review > create user > download the .csv files which contains security credentials for the user '
-terraform_user'
+terraform_user'<br>
 
 `Access key ID` and a `Secret access key` were provided to you by `AWS`.<br>
 
@@ -58,6 +58,7 @@ Follow `AWS` security best practices by deleting this user and the group created
 Go back to your `Terraform Cloud` window and click on 'Configure variables'<br>
 
 . Scroll down to `Terraform` variables > Add variables: here you'll create three (3) variables, one related to a user, and two related to the `DynamoDB` database: 'tag_user_name', 'db_write_capacity', 'db_read_capacity'<br>
+
 . Do the same for Environment variables > Ass variables: create 2 variables 'AWS_ACCESS_KEY_ID' and 'AWS_SECRET_ACCESS_KEY'.
 
 <details>
@@ -107,4 +108,4 @@ You can go to your `AWS` console and check that the `DynamoDB` table was provisi
 </details>
 
 <hr>
-At the end of this part 1, you configured your workspace and provisioned a `DynamoDB` instance using `Terraform Cloud`.
+At the end of this part you configured your workspace and provisioned a `DynamoDB` instance using `Terraform Cloud`.
