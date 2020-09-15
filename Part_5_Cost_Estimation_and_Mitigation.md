@@ -5,9 +5,14 @@ In order to get cost estimation of your deployed resources upon `Queue plan`, ma
 
 On the top bar click on Settings > Plan & Billing.<br>
 
-Choose the Team & Governance free trial plan to try new `Terraform Cloud` tools for free (30 days free trial).<br>
+Choose the Team & Governance free trial plan to try new `Terraform Cloud` tools for free (30 days free trial).
+
+<hr>
 
 [![isaac-arnault-terraform-51.png](https://i.postimg.cc/MphrnyXk/isaac-arnault-terraform-51.png)](https://postimg.cc/18rKTVpM)
+
+
+<hr>
 
 Now that you've switched to a paid plan, you'll see that new tabs appeared in your left sidebar such as `Cost Estimation`, `Policy Sets`. <br>
 
